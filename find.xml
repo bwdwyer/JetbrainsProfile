@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution Explorer Selection" />
-    <option name="defaultScopeName" value="Solution Explorer Selection" />
-    <option name="SEARCH_SCOPE" value="Solution Explorer Selection" />
+    <option name="customScope" value="Project Wellbeats.Droid" />
+    <option name="defaultScopeName" value="Project Wellbeats.Droid" />
+    <option name="SEARCH_SCOPE" value="Project Wellbeats.Droid" />
   </component>
 </application>
