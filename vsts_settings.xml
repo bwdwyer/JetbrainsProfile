@@ -1,25 +1,7 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://fortfs.visualstudio.com/Wellbeats%202.0/_git/p2%20Git" />
-          <option name="serverUri" value="https://fortfs.visualstudio.com" />
-          <option name="userId" value="717915e8-ce88-4311-ab44-d7b3a385863b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;2713bc2a-2161-4e5f-b8eb-cb430c3a4638&quot;,&quot;name&quot;:&quot;fortfs&quot;,&quot;url&quot;:&quot;https://fortfs.visualstudio.com/_apis/projectCollections/2713bc2a-2161-4e5f-b8eb-cb430c3a4638&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;31a1f261-31fc-423c-89b4-951d0281219c&quot;,&quot;name&quot;:&quot;Wellbeats 2.0&quot;,&quot;revision&quot;:448755624,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fortfs.visualstudio.com/_apis/projects/31a1f261-31fc-423c-89b4-951d0281219c&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;078bc9a5-d133-47e8-8498-47b3405bbaa6&quot;,&quot;name&quot;:&quot;p2 Git&quot;,&quot;remoteUrl&quot;:&quot;https://fortfs.visualstudio.com/Wellbeats%202.0/_git/p2%20Git&quot;,&quot;url&quot;:&quot;https://fortfs.visualstudio.com/_apis/git/repositories/078bc9a5-d133-47e8-8498-47b3405bbaa6&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;31a1f261-31fc-423c-89b4-951d0281219c&quot;,&quot;name&quot;:&quot;Wellbeats 2.0&quot;,&quot;revision&quot;:448755624,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://fortfs.visualstudio.com/_apis/projects/31a1f261-31fc-423c-89b4-951d0281219c&quot;}}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="VSO" />
-          <option name="uri" value="https://fortfs.visualstudio.com" />
-          <option name="serverUri" value="https://fortfs.visualstudio.com" />
-          <option name="userId" value="717915e8-ce88-4311-ab44-d7b3a385863b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
